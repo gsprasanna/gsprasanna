@@ -5,8 +5,6 @@ A passionate full stack developer from India working as **Developer** in TCS,  w
 
 - 👨‍💻 All of my hands-on projects are available at [https://gsprasanna.github.io/Portfolio](https://gsprasanna.github.io/Portfolio)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kqI1T2s6amDgbwyrKuNI3h2GV-5AjPT6ncyqunKtlpE/edit?usp=sharing](https://docs.google.com/document/d/1kqI1T2s6amDgbwyrKuNI3h2GV-5AjPT6ncyqunKtlpE/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasanna_gs_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prasanna_gs_" height="30" width="40" /></a>
