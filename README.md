@@ -17,4 +17,4 @@ A passionate full stack developer from India working as **Developer** in TCS,  w
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsprasanna&show_icons=true&theme=radical&locale=en" alt="gsprasanna" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsprasanna" alt="gsprasanna" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsprasanna" alt="gsprasanna" /></a> </p> -->
