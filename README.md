@@ -3,7 +3,7 @@
 A passionate technologist from India working as **Developer**,  with a demonstrated history of working in the information technology and services industry. **Skilled in React JS** Self-motivated with the ability to swiftly master new technologies.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 👨‍💻 All of my hands-on projects are available at [https://gsprasanna.github.io/Portfolio](https://gsprasanna.github.io/Portfolio)
+<!-- - 👨‍💻 All of my hands-on projects are available at [https://gsprasanna.github.io/Portfolio](https://gsprasanna.github.io/Portfolio) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
