@@ -6,9 +6,9 @@ A passionate technologist from India working as **Developer**,  with a demonstra
 <!-- - 👨‍💻 All of my hands-on projects are available at [https://gsprasanna.github.io/Portfolio](https://gsprasanna.github.io/Portfolio) -->
 
 <h3 align="left">Connect with me:</h3>
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][https://twitter.com/Prasanna_GS_]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/prasanna-balaji-gs/]
 
 <p align="left">
 <a href="https://twitter.com/prasanna_gs_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prasanna_gs_" height="30" width="40" /></a>
