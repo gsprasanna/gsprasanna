@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Balaji G S</h1>
 
-A passionate technologist from India working as **Developer**,  with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Redux, React Hooks** Self-motivated with the ability to swiftly master new technologies.
+A passionate technologist from India working as **Consultant**,  with a demonstrated history of working in the information technology and services industry. 
+**Skilled in React JS, Redux, React Hooks** Self-motivated with the ability to swiftly master new technologies.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!-- - 👨‍💻 All of my hands-on projects are available at [https://gsprasanna.github.io/Portfolio](https://gsprasanna.github.io/Portfolio) -->
